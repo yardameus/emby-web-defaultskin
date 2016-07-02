@@ -1,10 +1,10 @@
 {
-    "name": "emby.defaultskin",
-    "displayName": "Default Skin",
+    "name": "emby.flow",
+    "displayName": "Flow",
     "version": "1.0.0",
-    "description": "The default Emby skin.",
+    "description": "Go with the...",
     "plugin": "plugin.js",
-    "homepage": "https://github.com/MediaBrowser/emby-web-defaultskin",
+    "homepage": "https://github.com/yardameus/emby-web-defaultskin",
     "thumb": "",
     "backdrop": ""
 }
